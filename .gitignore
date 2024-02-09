@@ -1,0 +1,5 @@
+*.session
+*.session-journal
+*.csv
+*.config
+config.ini
